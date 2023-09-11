@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm Rucha, a dedicated Frontend Developer with a p
 - **React Router Pro:** Crafting applications with intricate navigation structures is my forte, ensuring seamless user journeys.
 
 #### Crafting Beautiful Interfaces
-- **HTML, CSS, and JavaScript:** I seamlessly merge design aesthetics with functionality, creating pixel-perfect, responsive layouts and captivating animations.
+- **HTML, CSS, JavaScript and Typescript:** I seamlessly merge design aesthetics with functionality, creating pixel-perfect, responsive layouts and captivating animations.
 - **Material UI, Styled Components, and Emotion.js:** I excel in elevating aesthetics and styling, ensuring consistency across different devices.
 
 #### Efficient State Management
